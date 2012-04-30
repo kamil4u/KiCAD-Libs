@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0  Date: So 08 Apr 2012 03:01:25 CEST
+#
+$CMP 78XX
+D 78xx voltage regulator
+$ENDCMP
+#
+$CMP LM5015
+D LM5015 two-switch forward converter regulator ic
+$ENDCMP
+#
+$CMP MIC4680
+D MIC4680 1A 200kHz buck regulator
+$ENDCMP
+#
+#End Doc Library
