@@ -1,9 +1,7 @@
 KiCAD Libraries
 Copyright (c) 2012 Oliver Kirsch <oli@unprofessional.info>
 
-Version  0.0.1
-         03 April 2012
-
+Version  (development) - 0.0.x
 
 
 This library includes a bunch of symbols and footprints ("modules")
@@ -62,5 +60,5 @@ this is possible. However, as this early version has to be seen as
 might be too many bugs included right now.
 
 
-30/04/2012
+May 2012
 Oliver Kirsch <oli@unprofessional.info>

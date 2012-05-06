@@ -1,2 +1,8 @@
+v0.0.2 - 07/05/12
+* some polcaps changed
+* WIMA caps lib added
+* Added some SMD devices
+* THT resistors 0411, 0516 added (and misplaced MELF removed)
+
 v0.0.1 - 30/04/12
 * First release, yet unfinished
