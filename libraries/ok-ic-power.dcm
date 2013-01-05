@@ -1,11 +1,27 @@
-EESchema-DOCLIB  Version 2.0  Date: So 08 Apr 2012 03:01:25 CEST
+EESchema-DOCLIB  Version 2.0  Date: Sa 08 Dez 2012 11:30:39 CET
 #
 $CMP 78XX
 D 78xx voltage regulator
 $ENDCMP
 #
+$CMP LM1117-ADJ
+D *1117 adjustible voltage regulator
+$ENDCMP
+#
+$CMP LM2665
+D switched capacitor voltage doubler
+$ENDCMP
+#
+$CMP LM4040
+D shunt voltage reference
+$ENDCMP
+#
 $CMP LM5015
 D LM5015 two-switch forward converter regulator ic
+$ENDCMP
+#
+$CMP MIC2951
+D MIC2951 LDO voltage regulator
 $ENDCMP
 #
 $CMP MIC4680

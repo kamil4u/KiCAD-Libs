@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Sa 24 Mär 2012 00:39:33 CET
+EESchema-DOCLIB  Version 2.0  Date: Sa 08 Dez 2012 14:12:52 CET
 #
 $CMP 7-SEG
 D 7-segment display
@@ -68,6 +68,10 @@ $CMP LED
 D LED
 $ENDCMP
 #
+$CMP LED-2
+D dual led, separate A/C
+$ENDCMP
+#
 $CMP LED-2-CA
 D dual led, common anode
 $ENDCMP
@@ -76,12 +80,20 @@ $CMP LED-2-CC
 D dual led, common cathode
 $ENDCMP
 #
+$CMP LED-2-S
+D LED, dual
+$ENDCMP
+#
 $CMP LED-3-CA
 D triple led, common anode
 $ENDCMP
 #
 $CMP LED-3-CC
 D triple led, common cathode
+$ENDCMP
+#
+$CMP LEDBAR-10
+D LEDBAR 10 LEDs
 $ENDCMP
 #
 #End Doc Library

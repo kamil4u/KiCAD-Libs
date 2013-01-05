@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: So 25 Mär 2012 11:12:34 CEST
+EESchema-DOCLIB  Version 2.0  Date: So 12 Aug 2012 15:28:54 CEST
 #
 $CMP 74X00
 D quad 2-input NAND gatter
@@ -186,6 +186,10 @@ $ENDCMP
 #
 $CMP 74X195
 D 4-bit parallel access shift register
+$ENDCMP
+#
+$CMP 74X1G08
+D single 2-input AND gatter
 $ENDCMP
 #
 $CMP 74X20

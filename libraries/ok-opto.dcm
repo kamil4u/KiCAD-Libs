@@ -1,4 +1,20 @@
-EESchema-DOCLIB  Version 2.0  Date: So 15 Apr 2012 08:15:12 CEST
+EESchema-DOCLIB  Version 2.0  Date: Sa 22 Dez 2012 09:14:56 CET
+#
+$CMP CNY-17
+D Optocoupler
+$ENDCMP
+#
+$CMP MOC3052
+D optotriac
+$ENDCMP
+#
+$CMP SFH690ABT
+D Photocoupler, Toshiba TLP781,TLP781F
+$ENDCMP
+#
+$CMP TLP781F
+D Photocoupler, Toshiba TLP781,TLP781F
+$ENDCMP
 #
 $CMP VTL5C
 D LED/LDR combo; Vactrol

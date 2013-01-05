@@ -1,4 +1,8 @@
-EESchema-DOCLIB  Version 2.0  Date: Do 05 Apr 2012 00:25:31 CEST
+EESchema-DOCLIB  Version 2.0  Date: Sa 11 Aug 2012 13:12:15 CEST
+#
+$CMP TRANS_1P1S
+D transformer: 1x pri, 1x sec
+$ENDCMP
 #
 $CMP TRANS_FW5_ETD29
 D transformer: 1x pri, 5x sec, ETD29

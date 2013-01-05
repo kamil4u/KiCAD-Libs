@@ -1,7 +1,15 @@
-EESchema-DOCLIB  Version 2.0  Date: So 08 Apr 2012 13:11:51 CEST
+EESchema-DOCLIB  Version 2.0  Date: Mo 17 Dez 2012 21:43:46 CET
 #
 $CMP BC847BS
 D dual NPN bipolar transistor
+$ENDCMP
+#
+$CMP BSS84
+D BSS84 (SOT-23) P-Mosfet
+$ENDCMP
+#
+$CMP DMP4051
+D BSS84 (SOT-23) P-Mosfet
 $ENDCMP
 #
 $CMP N-DARL
@@ -14,6 +22,10 @@ $ENDCMP
 #
 $CMP N-JFET
 D N channel J-FET
+$ENDCMP
+#
+$CMP NDC7002N
+D dual N-Mosfet enhancement type
 $ENDCMP
 #
 $CMP NMOS-D-3

@@ -1,4 +1,8 @@
-EESchema-DOCLIB  Version 2.0  Date: Di 13 Mär 2012 00:43:24 CET
+EESchema-DOCLIB  Version 2.0  Date: Sa 22 Dez 2012 09:44:15 CET
+#
+$CMP CON-DRILL
+D drill hole - connected
+$ENDCMP
 #
 $CMP CON1X01
 D generic connector, 1x1 pins
@@ -106,6 +110,14 @@ $ENDCMP
 #
 $CMP CON2X20
 D generic connector, 2x20 pins
+$ENDCMP
+#
+$CMP DC-JACK
+D DC Jack - e.g. 2.1, 2.5, ... mm
+$ENDCMP
+#
+$CMP DC-JACK-SW
+D DC Jack - e.g. 2.1, 2.5, ... mm
 $ENDCMP
 #
 #End Doc Library
