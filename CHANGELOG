@@ -1,3 +1,12 @@
+v0.0.3 - 05/01/13
+* merge all the changes from my local version to the 
+  github repo, including e.g.
+* some avr microcontrollers
+* switching and linear regulators
+* optocouplers
+* some footprints
+* ...
+
 v0.0.2 - 07/05/12
 * some polcaps changed
 * WIMA caps lib added
