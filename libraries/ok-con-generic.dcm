@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Sa 22 Dez 2012 09:44:15 CET
+EESchema-DOCLIB  Version 2.0  Date: Sa 27 Apr 2013 21:05:59 CEST
 #
 $CMP CON-DRILL
 D drill hole - connected
@@ -24,6 +24,10 @@ $CMP CON1X05
 D generic connector, 1x5 pins
 $ENDCMP
 #
+$CMP CON1X05s
+D generic connector, 1x5 pins, small spacing
+$ENDCMP
+#
 $CMP CON1X06
 D generic connector, 1x6 pins
 $ENDCMP
@@ -44,8 +48,24 @@ $CMP CON1X10
 D generic connector, 1x10 pins
 $ENDCMP
 #
+$CMP CON1X10S
+D generic connector, 1x10 pins, small spacing
+$ENDCMP
+#
 $CMP CON1X12
 D generic connector, 1x12 pins
+$ENDCMP
+#
+$CMP CON1X14
+D generic connector, 1x14 pins
+$ENDCMP
+#
+$CMP CON1X16
+D generic connector, 1x16 pins
+$ENDCMP
+#
+$CMP CON1X16s
+D generic connector, 1x16 pins -- small spacing
 $ENDCMP
 #
 $CMP CON2X02

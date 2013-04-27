@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: Sa 08 Dez 2012 11:30:39 CET
+EESchema-LIBRARY Version 2.3  Date: Sa 27 Apr 2013 21:48:00 CEST
 #encoding utf-8
 #
 # 78XX
@@ -34,7 +34,7 @@ $FPLIST
 $ENDFPLIST
 DRAW
 S -250 150 250 -200 0 0 0 N
-X ADJ 1 0 -300 100 U 50 50 1 1 w
+X ADJ 1 0 -300 100 U 50 50 1 1 P
 X Vout 2 350 0 100 L 50 50 1 1 w
 X Vin 3 -350 0 100 R 50 50 1 1 W
 ENDDRAW

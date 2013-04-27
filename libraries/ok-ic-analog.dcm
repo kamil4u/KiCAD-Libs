@@ -1,4 +1,8 @@
-EESchema-DOCLIB  Version 2.0  Date: Sa 19 Mai 2012 11:34:36 CEST
+EESchema-DOCLIB  Version 2.0  Date: Di 22 Jan 2013 18:54:55 CET
+#
+$CMP BA3812
+D BA3812 -- 5 channel graphic equalizer
+$ENDCMP
 #
 $CMP INA118
 D variable gain instrumentation amplifier
