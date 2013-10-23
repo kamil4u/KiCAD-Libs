@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Do 22 Mär 2012 08:10:34 CET
+EESchema-DOCLIB  Version 2.0  Date: Mi 01 Mai 2013 10:43:11 CEST
 #
 $CMP DIPSSW02
 D 2 pole DIP switch, single switches
@@ -82,6 +82,14 @@ $ENDCMP
 #
 $CMP DIPSW12
 D 12 pole DIP switch
+$ENDCMP
+#
+$CMP INCENC
+D Incremental Encoder
+$ENDCMP
+#
+$CMP INCENC_SW
+D Incremental Encoder with push button switch
 $ENDCMP
 #
 $CMP SW-3PDT

@@ -1,3 +1,9 @@
+v0.0.5 -- 23/10/13
+* another merge from my local files. Brings some 
+  new symbols and footprints
+* fix issue #22 regarding MAX488/MAX490 
+  (thanks to jotaemesousa). Also add MAX489/MAX491
+
 v0.0.4 - 27/04/13
 * pushing whatever has been done in the last months
 * just to be sort of up-to-date again 

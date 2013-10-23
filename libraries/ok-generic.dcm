@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: So 28 Okt 2012 16:47:03 CET
+EESchema-DOCLIB  Version 2.0  Date: Sa 04 Mai 2013 09:41:21 CEST
 #
 $CMP C
 D capacitor
@@ -14,6 +14,10 @@ $ENDCMP
 #
 $CMP CRYSTAL
 D crystal
+$ENDCMP
+#
+$CMP CRYSTAL-C
+D crystal with included load capacitors
 $ENDCMP
 #
 $CMP CVAR

@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: So 12 Aug 2012 15:28:54 CEST
+EESchema-DOCLIB  Version 2.0  Date: So 23 Jun 2013 14:02:47 CEST
 #
 $CMP 74X00
 D quad 2-input NAND gatter
@@ -130,6 +130,10 @@ $ENDCMP
 #
 $CMP 74X157
 D quad 2-input multiplexer
+$ENDCMP
+#
+$CMP 74X157m
+D quad 2-input multiplexer (1 symbol)
 $ENDCMP
 #
 $CMP 74X158

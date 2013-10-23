@@ -1,4 +1,12 @@
-EESchema-DOCLIB  Version 2.0  Date: Sa 27 Apr 2013 22:32:36 CEST
+EESchema-DOCLIB  Version 2.0  Date: So 26 Mai 2013 23:29:02 CEST
+#
+$CMP AT24C512
+D AT24C512 Atmel 512kBit EEPROM
+$ENDCMP
+#
+$CMP ATMEGA16A-AU
+D ATmega16A - 8-bit microcontroller
+$ENDCMP
 #
 $CMP ATTINY2313-S
 D 8-bit AVR microcontroller

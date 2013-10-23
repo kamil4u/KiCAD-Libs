@@ -1,7 +1,11 @@
-EESchema-DOCLIB  Version 2.0  Date: Sa 27 Apr 2013 21:48:00 CEST
+EESchema-DOCLIB  Version 2.0  Date: Mi 07 Aug 2013 21:40:51 CEST
 #
 $CMP 78XX
 D 78xx voltage regulator
+$ENDCMP
+#
+$CMP AP5100
+D AP5100 - Diodes Inc 1.2A Step-Down 1.4MHz
 $ENDCMP
 #
 $CMP LM1117-ADJ
@@ -21,6 +25,10 @@ D LM5015 two-switch forward converter regulator ic
 $ENDCMP
 #
 $CMP MIC2951
+D MIC2951 LDO voltage regulator
+$ENDCMP
+#
+$CMP MIC2954
 D MIC2951 LDO voltage regulator
 $ENDCMP
 #

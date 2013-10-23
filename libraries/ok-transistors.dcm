@@ -1,4 +1,8 @@
-EESchema-DOCLIB  Version 2.0  Date: Mo 17 Dez 2012 21:43:46 CET
+EESchema-DOCLIB  Version 2.0  Date: Do 19 Sep 2013 22:34:18 CEST
+#
+$CMP 2N7002
+D Logic level compatible N-channel mosfet
+$ENDCMP
 #
 $CMP BC847BS
 D dual NPN bipolar transistor
@@ -102,6 +106,10 @@ $ENDCMP
 #
 $CMP PNP-PHOTO-3
 D PNP phpto transistor with base
+$ENDCMP
+#
+$CMP ULN2003
+D High Voltage, High Current Darlington Transistor Array – 500mA, 50V
 $ENDCMP
 #
 #End Doc Library

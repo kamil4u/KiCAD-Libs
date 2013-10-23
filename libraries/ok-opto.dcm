@@ -1,7 +1,11 @@
-EESchema-DOCLIB  Version 2.0  Date: Sa 22 Dez 2012 09:14:56 CET
+EESchema-DOCLIB  Version 2.0  Date: Mi 19 Jun 2013 21:20:08 CEST
 #
 $CMP CNY-17
 D Optocoupler
+$ENDCMP
+#
+$CMP LCD-HD44780
+D HD44780 compatible standard LCD
 $ENDCMP
 #
 $CMP MOC3052
